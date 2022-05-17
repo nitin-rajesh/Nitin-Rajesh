@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nitin-rajesh
-- 👀 I’m interested in self infraction
-- 🌱 I’m currently learning mass destruction
-- 💞️ I’m looking to collaborate on brain erosion reversal
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me ... @it_guy_11788
 
 <!---
