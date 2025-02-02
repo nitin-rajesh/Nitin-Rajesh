@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me ... @it_guy_11788
+- 📫 How to reach me ... @prime_379
 
 <!---
 nitin-rajesh/nitin-rajesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
